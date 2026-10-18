@@ -10,8 +10,7 @@
 **`[ OFFENSIVE SECURITY ]`** • **`[ SOFTWARE DEVELOPMENT ]`** • **`[ LINUX ]`**
 
 [![GitHub](https://img.shields.io/badge/GitHub-zehfury-0D1117?style=for-the-badge&logo=github&logoColor=white)](https://github.com/zehfury)
-![Profile Views](https://komarev.com/ghpvc/?username=zehfury&color=00ff88&style=flat-square)
-
+![Hack4Gov](https://img.shields.io/badge/Hack4Gov_2026-NIR_Champion-008F5A?style=for-the-badge)
 </div>
 
 ---
