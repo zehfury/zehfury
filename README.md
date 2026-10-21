@@ -183,7 +183,7 @@ Completed three hands-on projects:
 | CCNA: Switching, Routing, and Wireless Essentials | Cisco | May 2026 |
 | CCNA: Introduction to Networks | Cisco | Jun 2025 |
 | Cloud and DevOps Basics | DICT | Dec 2025 |
-| Introduction to Programming Using Python (CS50) | Harvard University | — |
+| Introduction to Programming Using Python (CS50) | Harvard University | June 2024 |
 
 #### AI & Emerging Technologies
 
